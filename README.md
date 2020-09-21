@@ -1,6 +1,8 @@
 # freelancing-slides
-## Event Organized by Elmi Academy, hosted by Hargeisa Cultral Center.
+### Event Organized by Elmi Academy, hosted by Hargeisa Cultral Center.
 
-### Date Sept. 20,2020
+##### Date Sept. 20,2020
 
-### Presented by [Janagale](https://twitter.com/mmjanagale)
+Presented by [Janagale](https://twitter.com/mmjanagale)
+
+© [Elmi Academy](http://elmicademy.com/)
